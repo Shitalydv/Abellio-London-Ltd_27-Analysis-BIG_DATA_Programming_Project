@@ -1,0 +1,932 @@
+stop_point_ref,common_name,source_file
+490002178Z,Crawford Crescent (->S) Coulsdon,404-21-404-_-y05-2_1.xml
+490002177Z,Shaftesbury Lane (->E) Coulsdon,404-21-404-_-y05-2_1.xml
+490002176Z,Salter Close (->E) Coulsdon,404-21-404-_-y05-2_1.xml
+490002175Z,Tullick Way (->E) Coulsdon,404-21-404-_-y05-2_1.xml
+490002174Z,Lime Tree Avenue (->S) Coulsdon,404-21-404-_-y05-2_1.xml
+490002189Z,Farthing Way (->N) Coulsdon,404-21-404-_-y05-2_1.xml
+490001253B,Coulsdon Town (Stop B) Coulsdon,404-21-404-_-y05-2_1.xml
+490005637C,Coulsdon Library (Stop C) Coulsdon,404-21-404-_-y05-2_1.xml
+490009202D,Lion Green Road (Stop D) Coulsdon,404-21-404-_-y05-2_1.xml
+490001072M,Coulsdon South (Stop M) Coulsdon South,404-21-404-_-y05-2_1.xml
+490006183H,Downs Road (Stop N) Coulsdon South,404-21-404-_-y05-2_1.xml
+490009684N,Marlpit Lane (->N) Coulsdon South,404-21-404-_-y05-2_1.xml
+490010285E,Nineacres Way (->E) Coulsdon South,404-21-404-_-y05-2_1.xml
+490011820E,Coulsdon Wood (->E) Coulsdon South,404-21-404-_-y05-2_1.xml
+49003176N1,Aldercroft (->N1) Coulsdon South,404-21-404-_-y05-2_1.xml
+490004116N,Blueberry Gardens (->N) Coulsdon South,404-21-404-_-y05-2_1.xml
+490005639S,Coulsdon Court Road (->S) Coulsdon South,404-21-404-_-y05-2_1.xml
+490012649W,Oasis Academy Byron (->W) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490005641S,Coulsdon Rise (->S) Coulsdon South,404-21-404-_-y05-2_1.xml
+490013199E,Army Reserve Centre (Stop F) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490010535S,Old Coulsdon / Tudor Rose (Stop H) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490013317S2,The Crossways (Stop J) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490002184Z,Tollers Lane / Curling Close (->S) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490002180Z,Lacey Green / Goodenough Way (->W) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490002179Z,Middle Close (->W) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490002181Z,The Admirals Walk (->N) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490002182Z,Ellis Road (->E) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490002183Z,Lacey Green / Ellis Road (->E) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490002185Z,Tollers Lane / Drive Road (->N) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490015542S1,The Crossways (Stop M) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490005649E,Keston Avenue (Stop P) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490008679N,The Glade / Keston Avenue (Stop R) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490015305W,The Glade (->E) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490007931E,Caterham Drive / Keston Avenue (->E) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490014106S1,Caterham Drive /Waddington Ave (->S) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490004859S,Taunton Lane (CR5) (->W) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490012093S,Shirley Avenue (->S) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490008324S,Waddington Avenue/Homefield Rd (Stop S) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490014107E,Homefield Road (E-bound) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490008895W,Lacey Drive (->W) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490005638S,Coulsdon Common / The Fox (->S) Old Coulsdon,404-21-404-_-y05-2_1.xml
+40004410093B,The Grove (opp) Caterham,404-21-404-_-y05-2_1.xml
+40004410091B,The Village (SE-bound) Caterham,404-21-404-_-y05-2_1.xml
+40004410038A,Yorke Gate (opp) Caterham,404-21-404-_-y05-2_1.xml
+40004410037A,Westway Common (opp) Caterham,404-21-404-_-y05-2_1.xml
+40004410088B,Douglas Brunton Day Centre (adj) Caterham,404-21-404-_-y05-2_1.xml
+40004410089B,Coulsdon Road (opp) Caterham,404-21-404-_-y05-2_1.xml
+40004410090A,Hambledon Road (adj) Caterham,404-21-404-_-y05-2_1.xml
+40004410091A,The Village (NW-bound) Caterham,404-21-404-_-y05-2_1.xml
+40004410092A,Windmill Close (opp) Caterham,404-21-404-_-y05-2_1.xml
+40004410093A,The Grove (adj) Caterham,404-21-404-_-y05-2_1.xml
+490005638N,Coulsdon Common / The Fox (->N) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490008895N,Coulsdon Road / Lacey Drive (->N) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490008495E,Lacey Drive (->E) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490014107N,Homefield Road (N-bound) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490008324N,Waddington Avenue/Homefield Rd (Stop T) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490014106S2,Caterham Drive /Waddington Ave (->N) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490007931W,Caterham Drive / Keston Avenue (->W) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490015305W1,The Glade (->W) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490008679S,The Glade / Keston Avenue (->S) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490005649W,Keston Avenue (Stop U) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490013317N,The Crossways (Stop B) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490010535N,Old Coulsdon / Tudor Rose (Stop C) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490013199W,Army Reserve Centre (Stop E) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490005641N,Coulsdon Rise (->N) Coulsdon South,404-21-404-_-y05-2_1.xml
+490012649E,Oasis Academy Byron (->E) Old Coulsdon,404-21-404-_-y05-2_1.xml
+490005639N,Coulsdon Court Road (->N) Coulsdon South,404-21-404-_-y05-2_1.xml
+490004667S,Byron Avenue (CR5) (->S) Coulsdon,404-21-404-_-y05-2_1.xml
+490004116S,Blueberry Gardens (->S) Coulsdon South,404-21-404-_-y05-2_1.xml
+490011820W,Coulsdon Wood (->W) Coulsdon South,404-21-404-_-y05-2_1.xml
+490010285W,Nineacres Way (->W) Coulsdon South,404-21-404-_-y05-2_1.xml
+490009684S,Marlpit Lane (->S) Coulsdon South,404-21-404-_-y05-2_1.xml
+490001072P,Coulsdon South (Stop P) Coulsdon South,404-21-404-_-y05-2_1.xml
+490002174Y,Lime Tree Avenue (->N) Coulsdon,404-21-404-_-y05-2_1.xml
+490002175Y,Tullick Way (->W) Coulsdon,404-21-404-_-y05-2_1.xml
+490002176Y,Salter Close (->W) Coulsdon,404-21-404-_-y05-2_1.xml
+490002177Y,Shaftesbury Lane (->W) Coulsdon,404-21-404-_-y05-2_1.xml
+490013199W,Territorial Army Centre,tfl_21-404-_-y05-6_qyPH39c.xml
+490001072M,Coulsdon South,tfl_21-404-_-y05-6_qyPH39c.xml
+490001072P,Coulsdon South,tfl_21-404-_-y05-6_qyPH39c.xml
+490001253B,Coulsdon Town,tfl_21-404-_-y05-6_qyPH39c.xml
+490002174Y,Lime Tree Avenue,tfl_21-404-_-y05-6_qyPH39c.xml
+490002174Z,Lime Tree Avenue,tfl_21-404-_-y05-6_qyPH39c.xml
+490002175Z,Tullick Way,tfl_21-404-_-y05-6_qyPH39c.xml
+490002175Y,Tullick Way,tfl_21-404-_-y05-6_qyPH39c.xml
+490002176Z,Salter Close,tfl_21-404-_-y05-6_qyPH39c.xml
+490002176Y,Salter Close,tfl_21-404-_-y05-6_qyPH39c.xml
+490002177Z,Shaftesbury Lane,tfl_21-404-_-y05-6_qyPH39c.xml
+490002177Y,Shaftesbury Lane,tfl_21-404-_-y05-6_qyPH39c.xml
+490002178Z,Crawford Crescent,tfl_21-404-_-y05-6_qyPH39c.xml
+490002179Z,Middle Close,tfl_21-404-_-y05-6_qyPH39c.xml
+490002180Z,Lacey Green / Goodenough Way,tfl_21-404-_-y05-6_qyPH39c.xml
+490002181Z,The Admirals Walk,tfl_21-404-_-y05-6_qyPH39c.xml
+490002182Z,Ellis Road,tfl_21-404-_-y05-6_qyPH39c.xml
+490002183Z,Lacey Green / Ellis Road,tfl_21-404-_-y05-6_qyPH39c.xml
+490002184Z,Tollers Lane / Curling Close,tfl_21-404-_-y05-6_qyPH39c.xml
+490002185Z,Tollers Lane / Drive Road,tfl_21-404-_-y05-6_qyPH39c.xml
+490002189Z,Farthing Way,tfl_21-404-_-y05-6_qyPH39c.xml
+49003176N1,Aldercroft,tfl_21-404-_-y05-6_qyPH39c.xml
+490004116N,Blueberry Gardens,tfl_21-404-_-y05-6_qyPH39c.xml
+490004116S,Blueberry Gardens,tfl_21-404-_-y05-6_qyPH39c.xml
+490004667S,Byron Avenue (CR5),tfl_21-404-_-y05-6_qyPH39c.xml
+40004410090A,Hambledon Road,tfl_21-404-_-y05-6_qyPH39c.xml
+40004410091A,Caterham-on-the-Hill / Tesco,tfl_21-404-_-y05-6_qyPH39c.xml
+40004410091B,Caterham-on-the-Hill / Tesco,tfl_21-404-_-y05-6_qyPH39c.xml
+490004859S,Taunton Lane (CR5),tfl_21-404-_-y05-6_qyPH39c.xml
+40004410089B,Court Road (CR3),tfl_21-404-_-y05-6_qyPH39c.xml
+490005638N,Coulsdon Common / The Fox,tfl_21-404-_-y05-6_qyPH39c.xml
+490005638S,Coulsdon Common / The Fox,tfl_21-404-_-y05-6_qyPH39c.xml
+490005639N,Coulsdon Court Road,tfl_21-404-_-y05-6_qyPH39c.xml
+490005639S,Coulsdon Court Road,tfl_21-404-_-y05-6_qyPH39c.xml
+490005637C,Coulsdon Library,tfl_21-404-_-y05-6_qyPH39c.xml
+490005641N,Coulsdon Rise,tfl_21-404-_-y05-6_qyPH39c.xml
+490005641S,Coulsdon Rise,tfl_21-404-_-y05-6_qyPH39c.xml
+490005649E,Keston Avenue,tfl_21-404-_-y05-6_qyPH39c.xml
+490005649W,Keston Avenue,tfl_21-404-_-y05-6_qyPH39c.xml
+490006183H,Downs Road,tfl_21-404-_-y05-6_qyPH39c.xml
+40004410093A,Hawarden Road,tfl_21-404-_-y05-6_qyPH39c.xml
+40004410093B,Hawarden Road,tfl_21-404-_-y05-6_qyPH39c.xml
+490007931E,Caterham Drive / Keston Avenue,tfl_21-404-_-y05-6_qyPH39c.xml
+490007931W,Caterham Drive / Keston Avenue,tfl_21-404-_-y05-6_qyPH39c.xml
+490008324S,Waddington Avenue/Homefield Rd,tfl_21-404-_-y05-6_qyPH39c.xml
+490008324N,Waddington Avenue/Homefield Rd,tfl_21-404-_-y05-6_qyPH39c.xml
+490008495E,Lacey Drive,tfl_21-404-_-y05-6_qyPH39c.xml
+490008895W,Lacey Drive,tfl_21-404-_-y05-6_qyPH39c.xml
+490008679S,The Glade / Keston Avenue,tfl_21-404-_-y05-6_qyPH39c.xml
+490008679N,The Glade / Keston Avenue,tfl_21-404-_-y05-6_qyPH39c.xml
+490008895N,Coulsdon Road / Lacey Drive,tfl_21-404-_-y05-6_qyPH39c.xml
+490009202D,Lion Green Road,tfl_21-404-_-y05-6_qyPH39c.xml
+490009684N,Marlpit Lane,tfl_21-404-_-y05-6_qyPH39c.xml
+490009684S,Marlpit Lane,tfl_21-404-_-y05-6_qyPH39c.xml
+490010285E,Nineacres Way,tfl_21-404-_-y05-6_qyPH39c.xml
+490010285W,Nineacres Way,tfl_21-404-_-y05-6_qyPH39c.xml
+490010535N,Old Coulsdon / Tudor Rose,tfl_21-404-_-y05-6_qyPH39c.xml
+490010535S,Old Coulsdon / Tudor Rose,tfl_21-404-_-y05-6_qyPH39c.xml
+490011820E,Coulsdon Wood,tfl_21-404-_-y05-6_qyPH39c.xml
+490011820W,Coulsdon Wood,tfl_21-404-_-y05-6_qyPH39c.xml
+490012093S,Shirley Avenue,tfl_21-404-_-y05-6_qyPH39c.xml
+490012649E,Oasis Academy Byron,tfl_21-404-_-y05-6_qyPH39c.xml
+490012649W,Oasis Academy Byron,tfl_21-404-_-y05-6_qyPH39c.xml
+490013199E,Army Reserve Centre,tfl_21-404-_-y05-6_qyPH39c.xml
+490013317N,The Crossways,tfl_21-404-_-y05-6_qyPH39c.xml
+490013317S2,The Crossways,tfl_21-404-_-y05-6_qyPH39c.xml
+490015542S1,The Crossways,tfl_21-404-_-y05-6_qyPH39c.xml
+40004410092A,Windmill Close,tfl_21-404-_-y05-6_qyPH39c.xml
+490014106S2,Caterham Drive /Waddington Ave,tfl_21-404-_-y05-6_qyPH39c.xml
+490014106S1,Caterham Drive /Waddington Ave,tfl_21-404-_-y05-6_qyPH39c.xml
+490014107E,Homefield Road,tfl_21-404-_-y05-6_qyPH39c.xml
+490014107N,Homefield Road,tfl_21-404-_-y05-6_qyPH39c.xml
+40004410088B,Westway Common,tfl_21-404-_-y05-6_qyPH39c.xml
+40004410038A,York Gate,tfl_21-404-_-y05-6_qyPH39c.xml
+490015305W,The Glade,tfl_21-404-_-y05-6_qyPH39c.xml
+490015305W1,The Glade,tfl_21-404-_-y05-6_qyPH39c.xml
+40004410037A,Westway Caterham,tfl_21-404-_-y05-6_qyPH39c.xml
+490013199W,Territorial Army Centre,tfl_21-404-_-y05-7.xml
+490001072M,Coulsdon South,tfl_21-404-_-y05-7.xml
+490001072P,Coulsdon South,tfl_21-404-_-y05-7.xml
+490001253B,Coulsdon Town,tfl_21-404-_-y05-7.xml
+490002174Y,Lime Tree Avenue,tfl_21-404-_-y05-7.xml
+490002174Z,Lime Tree Avenue,tfl_21-404-_-y05-7.xml
+490002175Z,Tullick Way,tfl_21-404-_-y05-7.xml
+490002175Y,Tullick Way,tfl_21-404-_-y05-7.xml
+490002176Z,Salter Close,tfl_21-404-_-y05-7.xml
+490002176Y,Salter Close,tfl_21-404-_-y05-7.xml
+490002177Z,Shaftesbury Lane,tfl_21-404-_-y05-7.xml
+490002177Y,Shaftesbury Lane,tfl_21-404-_-y05-7.xml
+490002178Z,Crawford Crescent,tfl_21-404-_-y05-7.xml
+490002179Z,Middle Close,tfl_21-404-_-y05-7.xml
+490002180Z,Lacey Green / Goodenough Way,tfl_21-404-_-y05-7.xml
+490002181Z,The Admirals Walk,tfl_21-404-_-y05-7.xml
+490002182Z,Ellis Road,tfl_21-404-_-y05-7.xml
+490002183Z,Lacey Green / Ellis Road,tfl_21-404-_-y05-7.xml
+490002184Z,Tollers Lane / Curling Close,tfl_21-404-_-y05-7.xml
+490002185Z,Tollers Lane / Drive Road,tfl_21-404-_-y05-7.xml
+490002189Z,Farthing Way,tfl_21-404-_-y05-7.xml
+49003176N1,Aldercroft,tfl_21-404-_-y05-7.xml
+490004116N,Blueberry Gardens,tfl_21-404-_-y05-7.xml
+490004116S,Blueberry Gardens,tfl_21-404-_-y05-7.xml
+490004667S,Byron Avenue (CR5),tfl_21-404-_-y05-7.xml
+40004410090A,Hambledon Road,tfl_21-404-_-y05-7.xml
+40004410091A,Caterham-on-the-Hill / Tesco,tfl_21-404-_-y05-7.xml
+40004410091B,Caterham-on-the-Hill / Tesco,tfl_21-404-_-y05-7.xml
+490004859S,Taunton Lane (CR5),tfl_21-404-_-y05-7.xml
+40004410089B,Court Road (CR3),tfl_21-404-_-y05-7.xml
+490005638N,Coulsdon Common / The Fox,tfl_21-404-_-y05-7.xml
+490005638S,Coulsdon Common / The Fox,tfl_21-404-_-y05-7.xml
+490005639N,Coulsdon Court Road,tfl_21-404-_-y05-7.xml
+490005639S,Coulsdon Court Road,tfl_21-404-_-y05-7.xml
+490005637C,Coulsdon Library,tfl_21-404-_-y05-7.xml
+490005641N,Coulsdon Rise,tfl_21-404-_-y05-7.xml
+490005641S,Coulsdon Rise,tfl_21-404-_-y05-7.xml
+490005649E,Keston Avenue,tfl_21-404-_-y05-7.xml
+490005649W,Keston Avenue,tfl_21-404-_-y05-7.xml
+490006183H,Downs Road,tfl_21-404-_-y05-7.xml
+40004410093A,Hawarden Road,tfl_21-404-_-y05-7.xml
+40004410093B,Hawarden Road,tfl_21-404-_-y05-7.xml
+490007931E,Caterham Drive / Keston Avenue,tfl_21-404-_-y05-7.xml
+490007931W,Caterham Drive / Keston Avenue,tfl_21-404-_-y05-7.xml
+490008324S,Waddington Avenue/Homefield Rd,tfl_21-404-_-y05-7.xml
+490008324N,Waddington Avenue/Homefield Rd,tfl_21-404-_-y05-7.xml
+490008495E,Lacey Drive,tfl_21-404-_-y05-7.xml
+490008895W,Lacey Drive,tfl_21-404-_-y05-7.xml
+490008679S,The Glade / Keston Avenue,tfl_21-404-_-y05-7.xml
+490008679N,The Glade / Keston Avenue,tfl_21-404-_-y05-7.xml
+490008895N,Coulsdon Road / Lacey Drive,tfl_21-404-_-y05-7.xml
+490009202D,Lion Green Road,tfl_21-404-_-y05-7.xml
+490009684N,Marlpit Lane,tfl_21-404-_-y05-7.xml
+490009684S,Marlpit Lane,tfl_21-404-_-y05-7.xml
+490010285E,Nineacres Way,tfl_21-404-_-y05-7.xml
+490010285W,Nineacres Way,tfl_21-404-_-y05-7.xml
+490010535N,Old Coulsdon / Tudor Rose,tfl_21-404-_-y05-7.xml
+490010535S,Old Coulsdon / Tudor Rose,tfl_21-404-_-y05-7.xml
+490011820E,Coulsdon Wood,tfl_21-404-_-y05-7.xml
+490011820W,Coulsdon Wood,tfl_21-404-_-y05-7.xml
+490012093S,Shirley Avenue,tfl_21-404-_-y05-7.xml
+490012649E,Oasis Academy Byron,tfl_21-404-_-y05-7.xml
+490012649W,Oasis Academy Byron,tfl_21-404-_-y05-7.xml
+490013199E,Army Reserve Centre,tfl_21-404-_-y05-7.xml
+490013317N,The Crossways,tfl_21-404-_-y05-7.xml
+490013317S2,The Crossways,tfl_21-404-_-y05-7.xml
+490015542S1,The Crossways,tfl_21-404-_-y05-7.xml
+40004410092A,Windmill Close,tfl_21-404-_-y05-7.xml
+490014106S2,Caterham Drive /Waddington Ave,tfl_21-404-_-y05-7.xml
+490014106S1,Caterham Drive /Waddington Ave,tfl_21-404-_-y05-7.xml
+490014107E,Homefield Road,tfl_21-404-_-y05-7.xml
+490014107N,Homefield Road,tfl_21-404-_-y05-7.xml
+40004410088B,Westway Common,tfl_21-404-_-y05-7.xml
+40004410038A,York Gate,tfl_21-404-_-y05-7.xml
+490015305W,The Glade,tfl_21-404-_-y05-7.xml
+490015305W1,The Glade,tfl_21-404-_-y05-7.xml
+40004410037A,Westway Caterham,tfl_21-404-_-y05-7.xml
+490004708W,Oxford Road / Carshalton,tfl_21-407-_-y05-11_HygcEjI.xml
+490002023W13,Church Street Tram Stop,tfl_21-407-_-y05-11_HygcEjI.xml
+490002042C0,Centrale Tram Stop,tfl_21-407-_-y05-11_HygcEjI.xml
+490005858NX,St George's Walk / Croydon Town Centre,tfl_21-407-_-y05-11_HygcEjI.xml
+490003117A,Biddulph Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490003117B,Biddulph Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490003281N,Alton Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490003769E,Croydon Road / Plough Lane,tfl_21-407-_-y05-11_HygcEjI.xml
+490003769W,Croydon Road / Plough Lane,tfl_21-407-_-y05-11_HygcEjI.xml
+40004410110A,Beechwood Gardens,tfl_21-407-_-y05-11_HygcEjI.xml
+40004410110B,Beechwood Gardens,tfl_21-407-_-y05-11_HygcEjI.xml
+490004708E,Carshalton Road / Cambridge Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490004821D,Carshalton High Street,tfl_21-407-_-y05-11_HygcEjI.xml
+490004821E,Carshalton High Street,tfl_21-407-_-y05-11_HygcEjI.xml
+40004410084C,Caterham Valley,tfl_21-407-_-y05-11_HygcEjI.xml
+490005236N,Christchurch Road / Purley Hospital,tfl_21-407-_-y05-11_HygcEjI.xml
+490005289E,Church Road (SM6),tfl_21-407-_-y05-11_HygcEjI.xml
+490005289W,Church Road (SM6),tfl_21-407-_-y05-11_HygcEjI.xml
+490005574V,Coombe Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490005574S,Coombe Road,tfl_21-407-_-y05-11_HygcEjI.xml
+40004410106C,Court Bushes Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490005855C15,Croydon Flyover,tfl_21-407-_-y05-11_HygcEjI.xml
+490005855C1,Croydon Flyover,tfl_21-407-_-y05-11_HygcEjI.xml
+490006064S,Devon Close,tfl_21-407-_-y05-11_HygcEjI.xml
+490006064N,Devon Close,tfl_21-407-_-y05-11_HygcEjI.xml
+40004410109A,Farningham Road (CR3),tfl_21-407-_-y05-11_HygcEjI.xml
+40004410109B,Farningham Road (CR3),tfl_21-407-_-y05-11_HygcEjI.xml
+490006975N,Foxley Hill Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490006975NB,Foxley Hill Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490007129S,Garston Lane,tfl_21-407-_-y05-11_HygcEjI.xml
+490007129N,Garston Lane,tfl_21-407-_-y05-11_HygcEjI.xml
+490007670N,Haling Park Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490007670S,Haling Park Road,tfl_21-407-_-y05-11_HygcEjI.xml
+40004410111A,Highfield Road (CR3),tfl_21-407-_-y05-11_HygcEjI.xml
+40004410111B,Highfield Road (CR3),tfl_21-407-_-y05-11_HygcEjI.xml
+40004410115A,Hillside Road,tfl_21-407-_-y05-11_HygcEjI.xml
+40004410115B,Hillside Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490008633E,Kenley Treatment Works,tfl_21-407-_-y05-11_HygcEjI.xml
+490008633N,Kenley Treatment Works,tfl_21-407-_-y05-11_HygcEjI.xml
+490009010E,Lavington Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490009010W,Lavington Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490009074S,Legion House,tfl_21-407-_-y05-11_HygcEjI.xml
+490009074N,Legion House,tfl_21-407-_-y05-11_HygcEjI.xml
+490009180E1,Lind Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490009180W1,Lind Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490009410W,Rectory Grove,tfl_21-407-_-y05-11_HygcEjI.xml
+490014111N,Rectory Grove,tfl_21-407-_-y05-11_HygcEjI.xml
+490009575I,Manor Place,tfl_21-407-_-y05-11_HygcEjI.xml
+40004410118A,Maple Road (CR3),tfl_21-407-_-y05-11_HygcEjI.xml
+40004410118B,Maple Road (CR3),tfl_21-407-_-y05-11_HygcEjI.xml
+40004410112A,Marden Lodge School (CR3),tfl_21-407-_-y05-11_HygcEjI.xml
+40004410112B,Marden Lodge School (CR3),tfl_21-407-_-y05-11_HygcEjI.xml
+490010002N,Montpelier Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490010002S,Montpelier Road,tfl_21-407-_-y05-11_HygcEjI.xml
+40004410119B,Old Barn Lane,tfl_21-407-_-y05-11_HygcEjI.xml
+40004410119A,Old Barn Lane,tfl_21-407-_-y05-11_HygcEjI.xml
+490010839C3,Park Street,tfl_21-407-_-y05-11_HygcEjI.xml
+490011153W,Pound Street,tfl_21-407-_-y05-11_HygcEjI.xml
+490011153F,Pound Street,tfl_21-407-_-y05-11_HygcEjI.xml
+490011259D,Purley / Downlands Precinct,tfl_21-407-_-y05-11_HygcEjI.xml
+490011259G,Purley / Downlands Precinct,tfl_21-407-_-y05-11_HygcEjI.xml
+490011274P,Purley High Street / Purley Station,tfl_21-407-_-y05-11_HygcEjI.xml
+490011275D,Purley Way / Waddon Station,tfl_21-407-_-y05-11_HygcEjI.xml
+490011275C,Purley Way / Waddon Station,tfl_21-407-_-y05-11_HygcEjI.xml
+490011270M,Purley Station / Purley High Street,tfl_21-407-_-y05-11_HygcEjI.xml
+490011481N,Sanderstead Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490011481S,Sanderstead Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490011504W15,Reeves Corner,tfl_21-407-_-y05-11_HygcEjI.xml
+490011585E,Carshalton Road / Ringstead Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490011585W,Carshalton Road / Ringstead Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490011806W11,Ruskin Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490011806W16,Ruskin Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490011856W,St. Nicholas Centre,tfl_21-407-_-y05-11_HygcEjI.xml
+490012272N,South Croydon Bus Garage,tfl_21-407-_-y05-11_HygcEjI.xml
+490015442S,South Croydon Bus Garage,tfl_21-407-_-y05-11_HygcEjI.xml
+490012726S,St James Road Kenley,tfl_21-407-_-y05-11_HygcEjI.xml
+490012726N,St James Road Kenley,tfl_21-407-_-y05-11_HygcEjI.xml
+490013020N,Sunnydene Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490013020S,Sunnydene Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490013061D,Sutton / Marshalls Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490013064V,Sutton Civic Centre,tfl_21-407-_-y05-11_HygcEjI.xml
+490013081K,Sutton Police Station,tfl_21-407-_-y05-11_HygcEjI.xml
+490013082R,Sutton Head Post Office,tfl_21-407-_-y05-11_HygcEjI.xml
+490013100G,Swan & Sugar Loaf,tfl_21-407-_-y05-11_HygcEjI.xml
+490013100J,Swan & Sugar Loaf,tfl_21-407-_-y05-11_HygcEjI.xml
+490013269S,Aberdeen Road South Croydon,tfl_21-407-_-y05-11_HygcEjI.xml
+40004410108A,Bourne Court,tfl_21-407-_-y05-11_HygcEjI.xml
+40004410108B,Bourne Court,tfl_21-407-_-y05-11_HygcEjI.xml
+490013422E,The Holt,tfl_21-407-_-y05-11_HygcEjI.xml
+490013422W,The Holt,tfl_21-407-_-y05-11_HygcEjI.xml
+490013437S,The Kenley Hotel / Kenley Station,tfl_21-407-_-y05-11_HygcEjI.xml
+490013437W,The Kenley Hotel / Kenley Station,tfl_21-407-_-y05-11_HygcEjI.xml
+490013543N,Brighton Road / Purley Downs Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490013543S,Brighton Road / Purley Downs Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490013603N,Purley Oaks Station,tfl_21-407-_-y05-11_HygcEjI.xml
+490013603C,Purley Oaks Station,tfl_21-407-_-y05-11_HygcEjI.xml
+490013679J,Times Square,tfl_21-407-_-y05-11_HygcEjI.xml
+490013920N,Upland Road Croydon,tfl_21-407-_-y05-11_HygcEjI.xml
+490013920S,Upland Road Croydon,tfl_21-407-_-y05-11_HygcEjI.xml
+490014043A,Vicarage Rd / Wandle Park Tram Stop,tfl_21-407-_-y05-11_HygcEjI.xml
+490014043B,Vicarage Rd / Wandle Park Tram Stop,tfl_21-407-_-y05-11_HygcEjI.xml
+490014110S,Purley Way / Waddon Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490014111S,Waddon New Road / Waddon Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490014136W,Wallington County Grammar School,tfl_21-407-_-y05-11_HygcEjI.xml
+490014137E,Wallington Green / Croydon Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490014137W,Wallington Green / Croydon Road,tfl_21-407-_-y05-11_HygcEjI.xml
+40004410113A,Well Farm Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490014420W,West Croydon Bus Station,tfl_21-407-_-y05-11_HygcEjI.xml
+490014420X,West Croydon Bus Station,tfl_21-407-_-y05-11_HygcEjI.xml
+490014614E10,Whitgift Centre,tfl_21-407-_-y05-11_HygcEjI.xml
+490014614E14,Whitgift Centre,tfl_21-407-_-y05-11_HygcEjI.xml
+40004410114B,Whyteleafe South Station,tfl_21-407-_-y05-11_HygcEjI.xml
+40004410114A,Whyteleafe South Station,tfl_21-407-_-y05-11_HygcEjI.xml
+40004410116B,Whyteleafe and Upper Warlingham Stations,tfl_21-407-_-y05-11_HygcEjI.xml
+40004410116A,Whyteleafe and Upper Warlingham Stations,tfl_21-407-_-y05-11_HygcEjI.xml
+490015833S,Chalk Pit Way,tfl_21-407-_-y05-11_HygcEjI.xml
+490014110B,Courtney Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490008217E,Guy Road,tfl_21-407-_-y05-11_HygcEjI.xml
+490000388Y,Warbank Crescent,tfl_21-464-_-y05-55535.xml
+490000388Z,Warbank Crescent,tfl_21-464-_-y05-55535.xml
+490010848N,New Addington Tram Stop,tfl_21-464-_-y05-55535.xml
+490010848S,New Addington Tram Stop,tfl_21-464-_-y05-55535.xml
+490003093N,King Henry's Drive / Homestead Way,tfl_21-464-_-y05-55535.xml
+490003093S,King Henry's Drive / Homestead Way,tfl_21-464-_-y05-55535.xml
+490003994S,Lebanon Gardens,tfl_21-464-_-y05-55535.xml
+490003994E,Lebanon Gardens,tfl_21-464-_-y05-55535.xml
+490004680E,Calley Down Crescent,tfl_21-464-_-y05-55535.xml
+490004680W,Calley Down Crescent,tfl_21-464-_-y05-55535.xml
+490004928Z,Central Parade New Addington,tfl_21-464-_-y05-55535.xml
+490004928N,Central Parade New Addington,tfl_21-464-_-y05-55535.xml
+490005009W,Charlton Drive,tfl_21-464-_-y05-55535.xml
+40004410805D,Cudham Road,tfl_21-464-_-y05-55535.xml
+490008533N,Biggin Hill / Black Horse,tfl_21-464-_-y05-55535.xml
+490008533S,Biggin Hill / Black Horse,tfl_21-464-_-y05-55535.xml
+490009625N,Maple Leaf Close,tfl_21-464-_-y05-55535.xml
+490009926E,New Addington Baptist Church,tfl_21-464-_-y05-55535.xml
+490009926W,New Addington Baptist Church,tfl_21-464-_-y05-55535.xml
+40004410805A,Ship Hill / Borough Road,tfl_21-464-_-y05-55535.xml
+40004410805H,Ship Hill / Borough Road,tfl_21-464-_-y05-55535.xml
+490011693N3,Rosehill Road,tfl_21-464-_-y05-55535.xml
+490011693S,Rosehill Road,tfl_21-464-_-y05-55535.xml
+490011874N,Main Road / Salt Box Hill,tfl_21-464-_-y05-55535.xml
+490011874S,Main Road / Salt Box Hill,tfl_21-464-_-y05-55535.xml
+490012660E,St Edward's Church,tfl_21-464-_-y05-55535.xml
+490012824N,Stock Hill,tfl_21-464-_-y05-55535.xml
+490012824S,Stock Hill,tfl_21-464-_-y05-55535.xml
+490013017N,Main Road / Sunningvale Ave,tfl_21-464-_-y05-55535.xml
+490013017S,Main Road / Sunningvale Ave,tfl_21-464-_-y05-55535.xml
+490013114E,Swievelands Road,tfl_21-464-_-y05-55535.xml
+490013114W,Swievelands Road,tfl_21-464-_-y05-55535.xml
+40004410805F,Cudham Hill,tfl_21-464-_-y05-55535.xml
+40004410805C,Ricketts Hill Road/Manor House,tfl_21-464-_-y05-55535.xml
+40004410134A,Ricketts Hill Road/Manor House,tfl_21-464-_-y05-55535.xml
+40004410135A,Tatsfield Village / Old Ship,tfl_21-464-_-y05-55535.xml
+40004410805B,Tatsfield Green,tfl_21-464-_-y05-55535.xml
+40004410805G,Tatsfield Green,tfl_21-464-_-y05-55535.xml
+490006699N,Meridian High School,tfl_21-464-_-y05-55535.xml
+490006699S,Meridian High School,tfl_21-464-_-y05-55535.xml
+490002038B,Fieldway Tram Stop,tfl_21-464-_-y05-55538.xml
+490002038A,Fieldway Tram Stop,tfl_21-464-_-y05-55538.xml
+490010848N,New Addington Tram Stop,tfl_21-464-_-y05-55538.xml
+490010848S,New Addington Tram Stop,tfl_21-464-_-y05-55538.xml
+490002120Z,Biggin Hill Memorial Museum,tfl_21-464-_-y05-55538.xml
+490007746N,Biggin Hill Memorial Museum,tfl_21-464-_-y05-55538.xml
+490003095E,Addington Road / Pumping Station,tfl_21-464-_-y05-55538.xml
+490003095W,Addington Road / Pumping Station,tfl_21-464-_-y05-55538.xml
+490003097E,Glebe Way,tfl_21-464-_-y05-55538.xml
+490003099N,Addington Road / Glebe Way,tfl_21-464-_-y05-55538.xml
+490003099W,Addington Road / Glebe Way,tfl_21-464-_-y05-55538.xml
+490003945W,Betchworth Way,tfl_21-464-_-y05-55538.xml
+490003993N,Biggin Hill Airport / Passenger Terminal,tfl_21-464-_-y05-55538.xml
+490003993S,Biggin Hill Airport / Passenger Terminal,tfl_21-464-_-y05-55538.xml
+490003994S,Lebanon Gardens,tfl_21-464-_-y05-55538.xml
+490003994E,Lebanon Gardens,tfl_21-464-_-y05-55538.xml
+490004073N,Blackness Lane,tfl_21-464-_-y05-55538.xml
+490004073S,Blackness Lane,tfl_21-464-_-y05-55538.xml
+490004680E,Calley Down Crescent,tfl_21-464-_-y05-55538.xml
+490004680W,Calley Down Crescent,tfl_21-464-_-y05-55538.xml
+490013322N,Castle Hill Avenue,tfl_21-464-_-y05-55538.xml
+490004843S,Castle Hill Avenue,tfl_21-464-_-y05-55538.xml
+490004928Z,Central Parade New Addington,tfl_21-464-_-y05-55538.xml
+490004928N,Central Parade New Addington,tfl_21-464-_-y05-55538.xml
+490005009W,Charlton Drive,tfl_21-464-_-y05-55538.xml
+490005544E,Coney Hall,tfl_21-464-_-y05-55538.xml
+490005544W,Coney Hall,tfl_21-464-_-y05-55538.xml
+490008680N,Keston Church,tfl_21-464-_-y05-55538.xml
+490006165S,Keston Church,tfl_21-464-_-y05-55538.xml
+40004410805D,Cudham Road,tfl_21-464-_-y05-55538.xml
+490007746S,Hanbury Drive,tfl_21-464-_-y05-55538.xml
+490007871E,Hartfield Crescent,tfl_21-464-_-y05-55538.xml
+490007871W,Hartfield Crescent,tfl_21-464-_-y05-55538.xml
+490008000N2,Westerham Rd / Heathfield Rd,tfl_21-464-_-y05-55538.xml
+490008000S2,Heathfield Road /Keston Common,tfl_21-464-_-y05-55538.xml
+490008533N,Biggin Hill / Black Horse,tfl_21-464-_-y05-55538.xml
+490008533S,Biggin Hill / Black Horse,tfl_21-464-_-y05-55538.xml
+490008678N,Keston / The Fox,tfl_21-464-_-y05-55538.xml
+490008678S,Keston / The Fox,tfl_21-464-_-y05-55538.xml
+490008684N1,Keston Village Hall,tfl_21-464-_-y05-55538.xml
+490008684N2,Keston Village Hall,tfl_21-464-_-y05-55538.xml
+490009032E,Layhams Road,tfl_21-464-_-y05-55538.xml
+490009032W,Layhams Road,tfl_21-464-_-y05-55538.xml
+490009051N,Leaves Green / Ashmore Lane,tfl_21-464-_-y05-55538.xml
+490009051S,Leaves Green / Ashmore Lane,tfl_21-464-_-y05-55538.xml
+490009625N,Maple Leaf Close,tfl_21-464-_-y05-55538.xml
+490009878N,Leaves Green / The Kings Arms,tfl_21-464-_-y05-55538.xml
+490009878S,Leaves Green / The Kings Arms,tfl_21-464-_-y05-55538.xml
+490009926E,New Addington Baptist Church,tfl_21-464-_-y05-55538.xml
+490009926W,New Addington Baptist Church,tfl_21-464-_-y05-55538.xml
+40004410805A,Ship Hill / Borough Road,tfl_21-464-_-y05-55538.xml
+40004410805H,Ship Hill / Borough Road,tfl_21-464-_-y05-55538.xml
+490011493N,Redstart Close,tfl_21-464-_-y05-55538.xml
+490011493S,Redstart Close,tfl_21-464-_-y05-55538.xml
+490011693N3,Rosehill Road,tfl_21-464-_-y05-55538.xml
+490011693S,Rosehill Road,tfl_21-464-_-y05-55538.xml
+490011874N,Main Road / Salt Box Hill,tfl_21-464-_-y05-55538.xml
+490011874S,Main Road / Salt Box Hill,tfl_21-464-_-y05-55538.xml
+490012660E,St Edward's Church,tfl_21-464-_-y05-55538.xml
+490012824N,Stock Hill,tfl_21-464-_-y05-55538.xml
+490012824S,Stock Hill,tfl_21-464-_-y05-55538.xml
+490013017N,Main Road / Sunningvale Ave,tfl_21-464-_-y05-55538.xml
+490013017S,Main Road / Sunningvale Ave,tfl_21-464-_-y05-55538.xml
+490013114E,Swievelands Road,tfl_21-464-_-y05-55538.xml
+490013114W,Swievelands Road,tfl_21-464-_-y05-55538.xml
+40004410805F,Cudham Hill,tfl_21-464-_-y05-55538.xml
+40004410805C,Ricketts Hill Road/Manor House,tfl_21-464-_-y05-55538.xml
+40004410134A,Ricketts Hill Road/Manor House,tfl_21-464-_-y05-55538.xml
+40004410135A,Tatsfield Village / Old Ship,tfl_21-464-_-y05-55538.xml
+490013672E,Tilford Avenue,tfl_21-464-_-y05-55538.xml
+490015467N,Vulcan Way,tfl_21-464-_-y05-55538.xml
+490015467Z,Vulcan Way,tfl_21-464-_-y05-55538.xml
+490015533S1,Fieldway,tfl_21-464-_-y05-55538.xml
+490015686S,Leafy Grove,tfl_21-464-_-y05-55538.xml
+490015686N,Leafy Grove,tfl_21-464-_-y05-55538.xml
+40004410805B,Tatsfield Green,tfl_21-464-_-y05-55538.xml
+40004410805G,Tatsfield Green,tfl_21-464-_-y05-55538.xml
+490002038B,Fieldway Tram Stop,tfl_21-464-_-y05-55539.xml
+490002038A,Fieldway Tram Stop,tfl_21-464-_-y05-55539.xml
+490010848N,New Addington Tram Stop,tfl_21-464-_-y05-55539.xml
+490010848S,New Addington Tram Stop,tfl_21-464-_-y05-55539.xml
+490002120Z,Biggin Hill Memorial Museum,tfl_21-464-_-y05-55539.xml
+490007746N,Biggin Hill Memorial Museum,tfl_21-464-_-y05-55539.xml
+490003095E,Addington Road / Pumping Station,tfl_21-464-_-y05-55539.xml
+490003095W,Addington Road / Pumping Station,tfl_21-464-_-y05-55539.xml
+490003097E,Glebe Way,tfl_21-464-_-y05-55539.xml
+490003099N,Addington Road / Glebe Way,tfl_21-464-_-y05-55539.xml
+490003099W,Addington Road / Glebe Way,tfl_21-464-_-y05-55539.xml
+490003945W,Betchworth Way,tfl_21-464-_-y05-55539.xml
+490003993N,Biggin Hill Airport / Passenger Terminal,tfl_21-464-_-y05-55539.xml
+490003993S,Biggin Hill Airport / Passenger Terminal,tfl_21-464-_-y05-55539.xml
+490003994S,Lebanon Gardens,tfl_21-464-_-y05-55539.xml
+490003994E,Lebanon Gardens,tfl_21-464-_-y05-55539.xml
+490004073N,Blackness Lane,tfl_21-464-_-y05-55539.xml
+490004073S,Blackness Lane,tfl_21-464-_-y05-55539.xml
+490004680E,Calley Down Crescent,tfl_21-464-_-y05-55539.xml
+490004680W,Calley Down Crescent,tfl_21-464-_-y05-55539.xml
+490013322N,Castle Hill Avenue,tfl_21-464-_-y05-55539.xml
+490004843S,Castle Hill Avenue,tfl_21-464-_-y05-55539.xml
+490004928Z,Central Parade New Addington,tfl_21-464-_-y05-55539.xml
+490004928N,Central Parade New Addington,tfl_21-464-_-y05-55539.xml
+490005009W,Charlton Drive,tfl_21-464-_-y05-55539.xml
+490005544E,Coney Hall,tfl_21-464-_-y05-55539.xml
+490005544W,Coney Hall,tfl_21-464-_-y05-55539.xml
+490008680N,Keston Church,tfl_21-464-_-y05-55539.xml
+490006165S,Keston Church,tfl_21-464-_-y05-55539.xml
+40004410805D,Cudham Road,tfl_21-464-_-y05-55539.xml
+490007746S,Hanbury Drive,tfl_21-464-_-y05-55539.xml
+490007871E,Hartfield Crescent,tfl_21-464-_-y05-55539.xml
+490007871W,Hartfield Crescent,tfl_21-464-_-y05-55539.xml
+490008000N2,Westerham Rd / Heathfield Rd,tfl_21-464-_-y05-55539.xml
+490008000S2,Heathfield Road /Keston Common,tfl_21-464-_-y05-55539.xml
+490008533N,Biggin Hill / Black Horse,tfl_21-464-_-y05-55539.xml
+490008533S,Biggin Hill / Black Horse,tfl_21-464-_-y05-55539.xml
+490008678N,Keston / The Fox,tfl_21-464-_-y05-55539.xml
+490008678S,Keston / The Fox,tfl_21-464-_-y05-55539.xml
+490008684N1,Keston Village Hall,tfl_21-464-_-y05-55539.xml
+490008684N2,Keston Village Hall,tfl_21-464-_-y05-55539.xml
+490009032E,Layhams Road,tfl_21-464-_-y05-55539.xml
+490009032W,Layhams Road,tfl_21-464-_-y05-55539.xml
+490009051N,Leaves Green / Ashmore Lane,tfl_21-464-_-y05-55539.xml
+490009051S,Leaves Green / Ashmore Lane,tfl_21-464-_-y05-55539.xml
+490009625N,Maple Leaf Close,tfl_21-464-_-y05-55539.xml
+490009878N,Leaves Green / The Kings Arms,tfl_21-464-_-y05-55539.xml
+490009878S,Leaves Green / The Kings Arms,tfl_21-464-_-y05-55539.xml
+490009926E,New Addington Baptist Church,tfl_21-464-_-y05-55539.xml
+490009926W,New Addington Baptist Church,tfl_21-464-_-y05-55539.xml
+40004410805A,Ship Hill / Borough Road,tfl_21-464-_-y05-55539.xml
+40004410805H,Ship Hill / Borough Road,tfl_21-464-_-y05-55539.xml
+490011493N,Redstart Close,tfl_21-464-_-y05-55539.xml
+490011493S,Redstart Close,tfl_21-464-_-y05-55539.xml
+490011693N3,Rosehill Road,tfl_21-464-_-y05-55539.xml
+490011693S,Rosehill Road,tfl_21-464-_-y05-55539.xml
+490011874N,Main Road / Salt Box Hill,tfl_21-464-_-y05-55539.xml
+490011874S,Main Road / Salt Box Hill,tfl_21-464-_-y05-55539.xml
+490012660E,St Edward's Church,tfl_21-464-_-y05-55539.xml
+490012824N,Stock Hill,tfl_21-464-_-y05-55539.xml
+490012824S,Stock Hill,tfl_21-464-_-y05-55539.xml
+490013017N,Main Road / Sunningvale Ave,tfl_21-464-_-y05-55539.xml
+490013017S,Main Road / Sunningvale Ave,tfl_21-464-_-y05-55539.xml
+490013114E,Swievelands Road,tfl_21-464-_-y05-55539.xml
+490013114W,Swievelands Road,tfl_21-464-_-y05-55539.xml
+40004410805F,Cudham Hill,tfl_21-464-_-y05-55539.xml
+40004410805C,Ricketts Hill Road/Manor House,tfl_21-464-_-y05-55539.xml
+40004410134A,Ricketts Hill Road/Manor House,tfl_21-464-_-y05-55539.xml
+40004410135A,Tatsfield Village / Old Ship,tfl_21-464-_-y05-55539.xml
+490013672E,Tilford Avenue,tfl_21-464-_-y05-55539.xml
+490015467N,Vulcan Way,tfl_21-464-_-y05-55539.xml
+490015467Z,Vulcan Way,tfl_21-464-_-y05-55539.xml
+490015533S1,Fieldway,tfl_21-464-_-y05-55539.xml
+490015686S,Leafy Grove,tfl_21-464-_-y05-55539.xml
+490015686N,Leafy Grove,tfl_21-464-_-y05-55539.xml
+40004410805B,Tatsfield Green,tfl_21-464-_-y05-55539.xml
+40004410805G,Tatsfield Green,tfl_21-464-_-y05-55539.xml
+40004408088A,Vincent Lane,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408240A,Dorking Station / London Road,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490001285D,Surbiton Station / Victoria Road,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490001285C,Surbiton,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408237A,Leatherhead Rail Station,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408188A,All Saints Church (KT22),tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408188B,All Saints Church (KT22),tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408189A,All Saints School,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408189B,All Saints School,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490003663X,Barwell Business Park,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490003663W,Barwell Business Park,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490004328N,Bridge Road (KT9),tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408130B,Burford Bridge,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408130A,Burford Bridge,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408133A,Byttom Hill,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408133B,Byttom Hill,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490005121X,Chessington World Of Adventures,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490005121Y,Chessington World Of Adventures,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490005800A16,Cromwell Road Bus Station,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490005800A2,Cromwell Road Bus Station,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490006089S,Ditton Road,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408115B,Dorking Station,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408240B,Dorking Station,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408114A,Deepdene Avenue Road,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408112A,Moores Road,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408112B,Moores Road,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408085A,Townfield Court,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408086A,South Street / Dorking,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408113A,Dorking Council Offices,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408113B,Dorking Council Offices,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408110A,West Street (RH4),tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408111B,White Horse,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408111A,White Horse,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490006364S,East Lane (KT1),tfl_21-465-_-y05-7_b3z8CFQ.xml
+490006364N,East Lane (KT1),tfl_21-465-_-y05-7_b3z8CFQ.xml
+490006412D1,Eden Street,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490006412E3,Eden Street,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490006412H,St James Road,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490006490L,Ellingham Road,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490006490M,Ellingham Road,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490006501S,Elmcroft Drive,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490006501N,Elmcroft Drive,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408128A,Pixham Lane,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408128B,Pixham Lane,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408134A,Givons Roundabout,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408134B,Givons Roundabout,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490007205S,Southborough High School,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490007205N,Southborough High School,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408174A,Leatherhead Leisure Centre,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408174B,Leatherhead Leisure Centre,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490007595J,Guildhall / Rose Theatre,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490007595K,Guildhall / Rose Theatre,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490008338S1,Hook Parade,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490008338N,Hook Parade,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408131A,Juniper Hall,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408131B,Juniper Hall,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408239A,The Villa,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490008949N,Langley Avenue (KT6),tfl_21-465-_-y05-7_b3z8CFQ.xml
+490008949S,Langley Avenue (KT6),tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408175B,Bridge Street (KT22),tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408175A,Bridge Street (KT22),tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408176A,North Street (KT22),tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408176B,North Street (KT22),tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408192A,Leatherhead Golf Club,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408192B,Leatherhead Golf Club,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490009048C,Garrison Lane,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490009048D,Garrison Lane,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408238A,North Downs Way,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490009395N,Lovelace Gardens,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490009395S,Lovelace Gardens,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408959A,Malden Rushett / The Star,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408959B,Malden Rushett / The Star,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490009615P,Mansfield Road / Hook,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490009627S,Maple Road (KT6),tfl_21-465-_-y05-7_b3z8CFQ.xml
+490009627N,Maple Road (KT6),tfl_21-465-_-y05-7_b3z8CFQ.xml
+490010075N,Mountcombe Close,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490010075S,Mountcombe Close,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408226A,Oxshott Road,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408226B,Oxshott Road,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408187A,Park Rise,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408187B,Park Rise,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408191A,Regent Park,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408191B,Regent Park,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490011796N,Rushett Lane,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490011796S,Rushett Lane,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490013034S,Surbiton Crescent,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490013035N,Surbiton Road / Penrhyn Road,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490013036H,Surbiton Sainsbury's,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490013036G,Surbiton Sainsbury's,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490013037W,Surbiton Road / Milestone House,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490013037E,Surbiton Road / Milestone House,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490013315N,The Crescent Surbiton,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490013315S,The Crescent Surbiton,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490013457HU,Ash Tree Close,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408173A,The Mount,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408173B,The Mount,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490013474S,The North Star,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490013474N,The North Star,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408172A,The Ridgeway Fetcham,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408172B,The Ridgeway Fetcham,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408234A,Oak Road / Leatherhead,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408132A,Mickleham Church,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408132B,Mickleham Church,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490013552N,Malden Rushett / Shy Horse,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490013552S,Malden Rushett / Shy Horse,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490013597Q,Holmwood Road,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490013597N,Holmwood Road,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408223A,Zig Zag Road,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408016A,Zig Zag Road,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490013628S,Thornhill Road Surbiton,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490013628N,Thornhill Road Surbiton,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408129A,Westhumble Street,tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408129B,Westhumble Street,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490014817S,Woodbines Avenue,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490015165B,Surbiton Station/Claremont Rd,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490018574S,Langley Road (KT6),tfl_21-465-_-y05-7_b3z8CFQ.xml
+40004408086B,South Street/ Rose Hill,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490013457N,The Maypole,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490015165A,Claremont Rd/ Surbiton Station,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490020192N,Chessington Garden Centre,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490020192S,Chessington Garden Centre,tfl_21-465-_-y05-7_b3z8CFQ.xml
+490013511C,Richmond Station,tfl_21-R68-_-y05-58885.xml
+490000192S,Richmond Station,tfl_21-R68-_-y05-58885.xml
+40004405136E,Hampton Court,tfl_21-R68-_-y05-58885.xml
+490004377E,Teddington / Broad Street,tfl_21-R68-_-y05-58885.xml
+490004377F,Teddington / Broad Street,tfl_21-R68-_-y05-58885.xml
+490004705W,Cambridge Park (TW1),tfl_21-R68-_-y05-58885.xml
+490004709E,Cambridge Road (TW11),tfl_21-R68-_-y05-58885.xml
+490004709W,Cambridge Road (TW11),tfl_21-R68-_-y05-58885.xml
+490005755E,Cresswell Road,tfl_21-R68-_-y05-58885.xml
+490005755W,Cresswell Road,tfl_21-R68-_-y05-58885.xml
+490005841T,Marble Hill Park / Crown Road,tfl_21-R68-_-y05-58885.xml
+490005841U,Marble Hill Park / Crown Road,tfl_21-R68-_-y05-58885.xml
+490007125E,Garrick Villa,tfl_21-R68-_-y05-58885.xml
+490007125W,Garrick Villa,tfl_21-R68-_-y05-58885.xml
+490007166B,George Street (TW9),tfl_21-R68-_-y05-58885.xml
+490007558N,Grove Gardens,tfl_21-R68-_-y05-58885.xml
+490007558S,Grove Gardens,tfl_21-R68-_-y05-58885.xml
+490007713D,Hampton Court Green,tfl_21-R68-_-y05-58885.xml
+490007713E,Hampton Court Green,tfl_21-R68-_-y05-58885.xml
+490007725S,Hampton Church,tfl_21-R68-_-y05-58885.xml
+490007725N,Hampton Church,tfl_21-R68-_-y05-58885.xml
+490007729F,Hampton Court Palace,tfl_21-R68-_-y05-58885.xml
+490007732S,Cross Street (TW12),tfl_21-R68-_-y05-58885.xml
+490007732N,Cross Street (TW12),tfl_21-R68-_-y05-58885.xml
+490007733S,Holly Road,tfl_21-R68-_-y05-58885.xml
+490007733N,Holly Road,tfl_21-R68-_-y05-58885.xml
+490007734E,Hampton Lodge,tfl_21-R68-_-y05-58885.xml
+490007734W,Hampton Lodge,tfl_21-R68-_-y05-58885.xml
+490007736S,Hampton Pool,tfl_21-R68-_-y05-58885.xml
+490007736N,Hampton Pool,tfl_21-R68-_-y05-58885.xml
+490008814E,Kings Road (TW11),tfl_21-R68-_-y05-58885.xml
+490009053W,Lebanon Court,tfl_21-R68-_-y05-58885.xml
+490009053E,Lebanon Court,tfl_21-R68-_-y05-58885.xml
+490009527ST,Mallard Place,tfl_21-R68-_-y05-58885.xml
+490009527SV,Mallard Place,tfl_21-R68-_-y05-58885.xml
+490009547SA,Manor Circus,tfl_21-R68-_-y05-58885.xml
+490009547SB,Manor Circus,tfl_21-R68-_-y05-58885.xml
+490009561W,Manor Grove (TW9),tfl_21-R68-_-y05-58885.xml
+490009577N,Manor Road (TW11),tfl_21-R68-_-y05-58885.xml
+490009577S,Manor Road (TW11),tfl_21-R68-_-y05-58885.xml
+490009670E,Marksbury Avenue,tfl_21-R68-_-y05-58885.xml
+490009848S,Michelham Gardens,tfl_21-R68-_-y05-58885.xml
+490009848N,Michelham Gardens,tfl_21-R68-_-y05-58885.xml
+490010049N,Mortlake Road,tfl_21-R68-_-y05-58885.xml
+490010049W,Mortlake Road,tfl_21-R68-_-y05-58885.xml
+490010157E,National Physical Laboratory,tfl_21-R68-_-y05-58885.xml
+490010157W,National Physical Laboratory,tfl_21-R68-_-y05-58885.xml
+490010685E,Oxford Road Hampton Hill,tfl_21-R68-_-y05-58885.xml
+490010685W,Oxford Road Hampton Hill,tfl_21-R68-_-y05-58885.xml
+490010757S,Park Close,tfl_21-R68-_-y05-58885.xml
+490010757N,Park Close,tfl_21-R68-_-y05-58885.xml
+490010806S,Parkside,tfl_21-R68-_-y05-58885.xml
+490010806N,Parkside,tfl_21-R68-_-y05-58885.xml
+490011104N,Popes Grotto,tfl_21-R68-_-y05-58885.xml
+490011104S,Popes Grotto,tfl_21-R68-_-y05-58885.xml
+490001148Z,Poulett Gardens,tfl_21-R68-_-y05-58885.xml
+490011148R,Poulett Gardens,tfl_21-R68-_-y05-58885.xml
+490011556J,Richmond Bus Station,tfl_21-R68-_-y05-58885.xml
+490011557W,Richmond Circus,tfl_21-R68-_-y05-58885.xml
+490011557E,Richmond Circus,tfl_21-R68-_-y05-58885.xml
+490012048SK,Sheendale Road,tfl_21-R68-_-y05-58885.xml
+490012048E,Sheendale Road,tfl_21-R68-_-y05-58885.xml
+490012423E,St. Albans Lodge,tfl_21-R68-_-y05-58885.xml
+490012460S,St Stephens Church/Richmond Rd,tfl_21-R68-_-y05-58885.xml
+490012460N,St Stephens Church/Richmond Rd,tfl_21-R68-_-y05-58885.xml
+490013172C,Elmfield Avenue,tfl_21-R68-_-y05-58885.xml
+490013172D,Elmfield Avenue,tfl_21-R68-_-y05-58885.xml
+490013174E,Teddington Lock,tfl_21-R68-_-y05-58885.xml
+490012507W,Teddington Lock,tfl_21-R68-_-y05-58885.xml
+490013175W,Teddington Memorial Hospital,tfl_21-R68-_-y05-58885.xml
+490013175E,Teddington Memorial Hospital,tfl_21-R68-_-y05-58885.xml
+490013511F,The Quadrant Richmond,tfl_21-R68-_-y05-58885.xml
+490013570E,St Alban's Riverside,tfl_21-R68-_-y05-58885.xml
+490013570W,St Alban's Riverside,tfl_21-R68-_-y05-58885.xml
+490013975S,Uxbridge Road Hampton,tfl_21-R68-_-y05-58885.xml
+490013975N,Uxbridge Road Hampton,tfl_21-R68-_-y05-58885.xml
+490015022W,York Street / Twickenham,tfl_21-R68-_-y05-58885.xml
+490015022H,York Street / Twickenham,tfl_21-R68-_-y05-58885.xml
+490015035SL,Sandycombe Road Richmond,tfl_21-R68-_-y05-58885.xml
+490016326S,Kew Retail Park,tfl_21-R68-_-y05-58885.xml
+490016327S,West Park Road,tfl_21-R68-_-y05-58885.xml
+490016327N,West Park Road,tfl_21-R68-_-y05-58885.xml
+490016328W,Courtlands Avenue,tfl_21-R68-_-y05-58885.xml
+490016328S,Courtlands Avenue,tfl_21-R68-_-y05-58885.xml
+490016329N,Chalkers Corner,tfl_21-R68-_-y05-58885.xml
+490016329S,Chalkers Corner,tfl_21-R68-_-y05-58885.xml
+490018556E,Orleans Park School,tfl_21-R68-_-y05-58885.xml
+490005841R,Orleans Park School,tfl_21-R68-_-y05-58885.xml
+490018678E,Taylor Avenue,tfl_21-R68-_-y05-58885.xml
+490018678W,Taylor Avenue,tfl_21-R68-_-y05-58885.xml
+490013511C,Richmond Station,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490000192S,Richmond Station,tfl_21-R68-_-y05-58885_glMYlIz.xml
+40004405136E,Hampton Court,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490004377E,Teddington / Broad Street,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490004377F,Teddington / Broad Street,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490004705W,Cambridge Park (TW1),tfl_21-R68-_-y05-58885_glMYlIz.xml
+490004709E,Cambridge Road (TW11),tfl_21-R68-_-y05-58885_glMYlIz.xml
+490004709W,Cambridge Road (TW11),tfl_21-R68-_-y05-58885_glMYlIz.xml
+490005755E,Cresswell Road,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490005755W,Cresswell Road,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490005841T,Marble Hill Park / Crown Road,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490005841U,Marble Hill Park / Crown Road,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490007125E,Garrick Villa,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490007125W,Garrick Villa,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490007166B,George Street (TW9),tfl_21-R68-_-y05-58885_glMYlIz.xml
+490007558N,Grove Gardens,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490007558S,Grove Gardens,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490007713D,Hampton Court Green,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490007713E,Hampton Court Green,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490007725S,Hampton Church,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490007725N,Hampton Church,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490007729F,Hampton Court Palace,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490007732S,Cross Street (TW12),tfl_21-R68-_-y05-58885_glMYlIz.xml
+490007732N,Cross Street (TW12),tfl_21-R68-_-y05-58885_glMYlIz.xml
+490007733S,Holly Road,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490007733N,Holly Road,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490007734E,Hampton Lodge,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490007734W,Hampton Lodge,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490007736S,Hampton Pool,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490007736N,Hampton Pool,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490008814E,Kings Road (TW11),tfl_21-R68-_-y05-58885_glMYlIz.xml
+490009053W,Lebanon Court,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490009053E,Lebanon Court,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490009527ST,Mallard Place,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490009527SV,Mallard Place,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490009547SA,Manor Circus,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490009547SB,Manor Circus,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490009561W,Manor Grove (TW9),tfl_21-R68-_-y05-58885_glMYlIz.xml
+490009577N,Manor Road (TW11),tfl_21-R68-_-y05-58885_glMYlIz.xml
+490009577S,Manor Road (TW11),tfl_21-R68-_-y05-58885_glMYlIz.xml
+490009670E,Marksbury Avenue,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490009848S,Michelham Gardens,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490009848N,Michelham Gardens,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490010049N,Mortlake Road,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490010049W,Mortlake Road,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490010157E,National Physical Laboratory,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490010157W,National Physical Laboratory,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490010685E,Oxford Road Hampton Hill,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490010685W,Oxford Road Hampton Hill,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490010757S,Park Close,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490010757N,Park Close,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490010806S,Parkside,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490010806N,Parkside,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490011104N,Popes Grotto,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490011104S,Popes Grotto,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490001148Z,Poulett Gardens,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490011148R,Poulett Gardens,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490011556J,Richmond Bus Station,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490011557W,Richmond Circus,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490011557E,Richmond Circus,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490012048SK,Sheendale Road,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490012048E,Sheendale Road,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490012423E,St. Albans Lodge,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490012460S,St Stephens Church/Richmond Rd,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490012460N,St Stephens Church/Richmond Rd,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490013172C,Elmfield Avenue,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490013172D,Elmfield Avenue,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490013174E,Teddington Lock,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490012507W,Teddington Lock,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490013175W,Teddington Memorial Hospital,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490013175E,Teddington Memorial Hospital,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490013511F,The Quadrant Richmond,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490013570E,St Alban's Riverside,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490013570W,St Alban's Riverside,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490013975S,Uxbridge Road Hampton,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490013975N,Uxbridge Road Hampton,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490015022W,York Street / Twickenham,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490015022H,York Street / Twickenham,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490015035SL,Sandycombe Road Richmond,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490016326S,Kew Retail Park,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490016327S,West Park Road,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490016327N,West Park Road,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490016328W,Courtlands Avenue,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490016328S,Courtlands Avenue,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490016329N,Chalkers Corner,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490016329S,Chalkers Corner,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490018556E,Orleans Park School,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490005841R,Orleans Park School,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490018678E,Taylor Avenue,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490018678W,Taylor Avenue,tfl_21-R68-_-y05-58885_glMYlIz.xml
+490001194A,Mitcham Junction Station,tfl_21-S1-_-y05-59996.xml
+490001194B,Mitcham Junction Station,tfl_21-S1-_-y05-59996.xml
+490001286O,Sutton Station,tfl_21-S1-_-y05-59996.xml
+490013060N,Sutton Station,tfl_21-S1-_-y05-59996.xml
+490019635E,Sutton Hospital,tfl_21-S1-_-y05-59996.xml
+490003118E,Mill Green Business Park,tfl_21-S1-_-y05-59996.xml
+40004409045A,Banstead / The Woolpack,tfl_21-S1-_-y05-59996.xml
+40004409045B,Banstead / The Woolpack,tfl_21-S1-_-y05-59996.xml
+40004409047A,Banstead / Marks & Spencer,tfl_21-S1-_-y05-59996.xml
+40004409047B,Banstead / Marks & Spencer,tfl_21-S1-_-y05-59996.xml
+40004409034A,Banstead Downs,tfl_21-S1-_-y05-59996.xml
+40004409034B,Banstead Downs,tfl_21-S1-_-y05-59996.xml
+490003892E,Benhill Avenue,tfl_21-S1-_-y05-59996.xml
+490004824W,Mitcham Garden Village / Willow Lane,tfl_21-S1-_-y05-59996.xml
+490004824E,Mitcham Garden Village / Willow Lane,tfl_21-S1-_-y05-59996.xml
+490004887S,Brighton Road / Cavendish Road,tfl_21-S1-_-y05-59996.xml
+490005844Y,Crown Road (SM1),tfl_21-S1-_-y05-59996.xml
+40004409036A,Croydon Lane,tfl_21-S1-_-y05-59996.xml
+40004409036B,Croydon Lane,tfl_21-S1-_-y05-59996.xml
+490006164A,Downe Road / Mitcham Library,tfl_21-S1-_-y05-59996.xml
+490006164B,Downe Road / Mitcham Library,tfl_21-S1-_-y05-59996.xml
+490006184E,Downs Road / Belmont Station,tfl_21-S1-_-y05-59996.xml
+490006184F,Downs Road / Belmont Station,tfl_21-S1-_-y05-59996.xml
+490006630E,Erskine Road,tfl_21-S1-_-y05-59996.xml
+490007213N1,Glebe Court,tfl_21-S1-_-y05-59996.xml
+490007213M,Glebe Court,tfl_21-S1-_-y05-59996.xml
+40004409046B,Glenfield Road,tfl_21-S1-_-y05-59996.xml
+40004409046A,Glenfield Road,tfl_21-S1-_-y05-59996.xml
+40004409035A,Grange Gardens,tfl_21-S1-_-y05-59996.xml
+40004409035B,Grange Gardens,tfl_21-S1-_-y05-59996.xml
+490007519S,Green Wrythe Lane,tfl_21-S1-_-y05-59996.xml
+490007987E,Cavendish Road (SM2),tfl_21-S1-_-y05-59996.xml
+490003293E,Cavendish Road (SM2),tfl_21-S1-_-y05-59996.xml
+40004409033A,Highdown Lane,tfl_21-S1-_-y05-59996.xml
+40004409033B,Highdown Lane,tfl_21-S1-_-y05-59996.xml
+490009286N,London Road / Figge's Marsh,tfl_21-S1-_-y05-59996.xml
+490009286S,London Road / Figge's Marsh,tfl_21-S1-_-y05-59996.xml
+490009575I,Manor Place,tfl_21-S1-_-y05-59996.xml
+490009860N,Middleton Road,tfl_21-S1-_-y05-59996.xml
+490009860S2,Middleton Road,tfl_21-S1-_-y05-59996.xml
+490009898W,Mill Green Road,tfl_21-S1-_-y05-59996.xml
+490009898S,Mill Green Road,tfl_21-S1-_-y05-59996.xml
+490009944V,Mitcham / Cricket Green,tfl_21-S1-_-y05-59996.xml
+490009946P,Mitcham / Lower Green,tfl_21-S1-_-y05-59996.xml
+490009949Z,Mitcham Fair Green,tfl_21-S1-_-y05-59996.xml
+490009949Y,Mitcham Fair Green,tfl_21-S1-_-y05-59996.xml
+490009952S,Mitcham Police Station,tfl_21-S1-_-y05-59996.xml
+490009952T,Mitcham Police Station,tfl_21-S1-_-y05-59996.xml
+490010129N,Muschamp Road Carshalton,tfl_21-S1-_-y05-59996.xml
+490010129S,Muschamp Road Carshalton,tfl_21-S1-_-y05-59996.xml
+490010186N,Netley Road,tfl_21-S1-_-y05-59996.xml
+490010186S,Netley Road,tfl_21-S1-_-y05-59996.xml
+490010624W,Orchard Way Erskine Road,tfl_21-S1-_-y05-59996.xml
+490010724E,Paget Avenue,tfl_21-S1-_-y05-59996.xml
+490011149N,Poulton Avenue,tfl_21-S1-_-y05-59996.xml
+490011149S,Poulton Avenue,tfl_21-S1-_-y05-59996.xml
+490011856W,St. Nicholas Centre,tfl_21-S1-_-y05-59996.xml
+490012718HA,St Helier Hospital,tfl_21-S1-_-y05-59996.xml
+490012718HB,St Helier Hospital,tfl_21-S1-_-y05-59996.xml
+490012719N,Green Wrythe Lane / St. Helier Library,tfl_21-S1-_-y05-59996.xml
+490012719S,GREEN WRYTHE LANE,tfl_21-S1-_-y05-59996.xml
+490013062C,High Street / Marshalls Road,tfl_21-S1-_-y05-59996.xml
+490013064V,Sutton Civic Centre,tfl_21-S1-_-y05-59996.xml
+490013072B,Sutton Green,tfl_21-S1-_-y05-59996.xml
+490013073W,Lewis Road (SM1),tfl_21-S1-_-y05-59996.xml
+490013075G,The London Cancer Hub,tfl_21-S1-_-y05-59996.xml
+490013075J,The London Cancer Hub,tfl_21-S1-_-y05-59996.xml
+490013081K,Sutton Police Station,tfl_21-S1-_-y05-59996.xml
+490013082R,Sutton Head Post Office,tfl_21-S1-_-y05-59996.xml
+490013377N,Goat Road,tfl_21-S1-_-y05-59996.xml
+490013377S,Goat Road,tfl_21-S1-_-y05-59996.xml
+490013565N2,Eveline Road,tfl_21-S1-_-y05-59996.xml
+490013565S2,Eveline Road,tfl_21-S1-_-y05-59996.xml
+490012566W,Oakhill Road Sutton,tfl_21-S1-_-y05-59996.xml
+490013679J,Times Square,tfl_21-S1-_-y05-59996.xml
+490014339N,Welbeck Road St Helier,tfl_21-S1-_-y05-59996.xml
+490014339S,Welbeck Road St Helier,tfl_21-S1-_-y05-59996.xml
+490014723W,The Wilson Hospital,tfl_21-S1-_-y05-59996.xml
+490014723E,The Wilson Hospital,tfl_21-S1-_-y05-59996.xml
+490015405RH,Bishopsford Road / Rose Hill Roundabout,tfl_21-S1-_-y05-59996.xml
+490015405RJ,Bishopsford Road / Rose Hill Roundabout,tfl_21-S1-_-y05-59996.xml
+490015406RK,Wrythe Lane / Rose Hill Roundabout,tfl_21-S1-_-y05-59996.xml
+490015406RL,Wrythe Lane / Rose Hill Roundabout,tfl_21-S1-_-y05-59996.xml
+490020189N,Victoria Road / Lavender Fields,tfl_21-S1-_-y05-59996.xml
+490020190S,Taylor Road,tfl_21-S1-_-y05-59996.xml
+490020190N,Taylor Road,tfl_21-S1-_-y05-59996.xml
+490003293W,Langley Park Road,tfl_21-S1-_-y05-59996.xml
