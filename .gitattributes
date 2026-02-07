@@ -1,0 +1,2 @@
+timetable/** filter=lfs diff=lfs merge=lfs -text
+timetable filter=lfs diff=lfs merge=lfs -text
